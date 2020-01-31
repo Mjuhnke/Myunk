@@ -1,23 +1,17 @@
-body{
-    Border: 0.5px solid black;
-    width: 300px;
-    padding: 0px;
-    color: white;
-    
-}
 
-.box{ Border: 1px transparent;
+
+.box{ 
+    border: 1px transparent;
     width: 302px;
     padding: 0x;
     margin-left: auto;
     margin-right: auto;
     color: white;
     background-image: url(background.jpg);
-    display: inline-block;
 }
 .box2{
     width: 280px;
-    length: 210px;
+    height: 210px;
     border: 1px transparent;
     margin-left:10.5px;
     margin-bottom: 10.5px;
@@ -26,7 +20,7 @@ body{
     }
 h1 {
     margin-bottom:1pt;
-    margin-top:0pt;
+    margin-top:0;
     font-style: italic;
     text-decoration: underline;
     border: 1px soli white;
